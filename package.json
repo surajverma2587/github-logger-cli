@@ -1,0 +1,23 @@
+{
+  "name": "github-logger-cli",
+  "version": "1.0.0",
+  "description": "## User Story",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajverma2587/github-logger-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajverma2587/github-logger-cli/issues"
+  },
+  "homepage": "https://github.com/surajverma2587/github-logger-cli#readme",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "inquirer": "^9.2.11"
+  }
+}
